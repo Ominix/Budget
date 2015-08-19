@@ -36,12 +36,12 @@ public class Main {
 		}
 		
 								
-		while(running){  //MAIN PROGRAM LOOP
+		//while(running){  //MAIN PROGRAM LOOP
 			calcs.getIncome();
 			
 			running = false;
 			System.out.println("Program Stopped");
-		}
+		//}
 
 	}
 
